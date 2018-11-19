@@ -1,0 +1,18 @@
+{
+  "filters": {
+    "cardNumber": "1770000008005825"
+  },
+  "returnFields": {
+    "balances": true,
+    "customer": true,
+    "alternateCustomer": false,
+    "giverCustomer": false,
+    "isEnrolled": true,
+    "customData": true,
+    "thirdPartyLinks": true,
+    "brandDemographics": true
+  },
+  "includeInactive": true,
+  "pin": "0742",
+  "forcePinValidation": true
+}
